@@ -1,0 +1,21 @@
+1  -  1
+1  -  1
+1  -  1
+1  -  1
+3  -  3
+2  -  2
+2  -  2
+3  -  3
+1  -  1
+2  -  2
+2  -  2
+3  -  3
+3  -  3
+2  -  2
+2  -  2
+2  -  2
+2  -  (testcase 17) in the writeup of the pipe_write there is nowhere written to use -EBADMEM, so i thought it is not allowed to used -EBADMEM in this. Sir, marks should be given for this as in writeup -EBADMEM is not written which get me confused.
+2  -  2
+2  -  2
+2  -  2
+1  -  1 
